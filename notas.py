@@ -33,6 +33,7 @@ aluno = {
 
 }
 
+# Imprimir dados
 print("====================")
 for chave, valor in aluno.items():
     print(f"{chave}: {valor}")
